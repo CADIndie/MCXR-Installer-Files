@@ -16,7 +16,7 @@
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/irisshaders/iris/",
                       "https://api.github.com/repos/FabricMC/fabric/"],
-            "display_name": "MCXR & Sodium + Iris",
+            "display_name": "MCXR & Sodium + Iris (MAY NOT WORK)",
             "compatible_versions": ["1.19"]
          },
          {
