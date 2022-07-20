@@ -5,7 +5,7 @@
             "names": ["mcxr-","sodium-fabric-mc", "fabric"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
-                      "https://api.github.com/repos/Sorenon/TitleWorlds"
+                      "https://api.github.com/repos/Sorenon/TitleWorlds",
                       "https://api.github.com/repos/FabricMC/fabric/"],
             "display_name": "MCXR & Sodium",
             "compatible_versions": ["1.19"]
