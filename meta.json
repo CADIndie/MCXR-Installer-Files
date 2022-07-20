@@ -2,7 +2,7 @@
     "game_versions": ["1.19"],
     "editions": [
         { 
-            "names": ["mcxr-","sodium-fabric-mc", "fabric"],
+            "names": ["mcxr-","sodium-fabric-mc", "fabric", "titleworlds"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/Sorenon/TitleWorlds",
@@ -12,7 +12,7 @@
         },
 
         { 
-            "names": ["mcxr-","sodium-fabric-mc","iris-mc", "fabric"],
+            "names": ["mcxr-","sodium-fabric-mc","iris-mc", "fabric", "titleworlds"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/irisshaders/iris/",
@@ -22,7 +22,7 @@
             "compatible_versions": ["1.19"]
          },
          {
-            "names": ["mcxr-", "fabric"],
+            "names": ["mcxr-", "fabric", "titleworlds"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/Sorenon/TitleWorlds",
                       "https://api.github.com/repos/FabricMC/fabric/"],
