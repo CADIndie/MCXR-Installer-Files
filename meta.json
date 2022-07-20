@@ -5,8 +5,8 @@
             "names": ["mcxr-","sodium-fabric-mc", "fabric", "titleworlds"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
-                      "https://api.github.com/repos/Sorenon/TitleWorlds",
-                      "https://api.github.com/repos/FabricMC/fabric/"],
+                      "https://api.github.com/repos/FabricMC/fabric/",
+                      "https://api.github.com/repos/Sorenon/TitleWorlds/"],
             "display_name": "MCXR & Sodium",
             "compatible_versions": ["1.19"]
         },
@@ -16,16 +16,16 @@
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
                       "https://api.github.com/repos/CADIndie/sodium-fabric/",
                       "https://api.github.com/repos/irisshaders/iris/",
-                      "https://api.github.com/repos/Sorenon/TitleWorlds",
-                      "https://api.github.com/repos/FabricMC/fabric/"],
+                      "https://api.github.com/repos/FabricMC/fabric/",
+                      "https://api.github.com/repos/Sorenon/TitleWorlds/"],
             "display_name": "MCXR & Sodium + Iris (MAY NOT WORK)",
             "compatible_versions": ["1.19"]
          },
          {
             "names": ["mcxr-", "fabric", "titleworlds"],
             "links": ["https://api.github.com/repos/CADIndie/mcxr-installer-files/",
-                      "https://api.github.com/repos/Sorenon/TitleWorlds",
-                      "https://api.github.com/repos/FabricMC/fabric/"],
+                      "https://api.github.com/repos/FabricMC/fabric/",
+                      "https://api.github.com/repos/Sorenon/TitleWorlds/"],
             "display_name": "MCXR Standalone",
             "compatible_versions": ["1.19"]
           }
